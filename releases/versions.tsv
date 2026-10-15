@@ -1,0 +1,6 @@
+# Danh sách phiên bản được đóng gói vào releases/<version>/.
+# Thêm phiên bản mới: thêm một dòng rồi chạy releases/build.sh <version>.
+# Cột cách nhau bằng TAB. variant "-" = bản chính; khác "-" thì thêm hậu tố vào tên ZIP.
+# Dòng biến thể đặt TRƯỚC dòng bản chính cùng phiên bản để README liệt kê cả ZIP biến thể.
+# version	variant	commit	date	slug
+1.4.9	-	397ce91	2026-10-14	2-step-webshop

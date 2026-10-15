@@ -1,0 +1,14 @@
+tools/
+docs/
+tests/
+releases/
+.git/
+.github/
+.gitignore
+.distignore
+CONTRIBUTING.md
+SECURITY.md
+dist/
+*.log
+*.zip
+*.tar.gz
