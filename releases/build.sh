@@ -106,3 +106,4 @@ done < "$HERE/versions.tsv"
 
 (cd "$HERE" && find . -mindepth 2 -name '*.zip' | sort -V | sed 's#^\./##' | xargs $SHA256 > SHA256SUMS.txt)
 echo "== Xong. Mã kiểm tra: releases/SHA256SUMS.txt"
+

@@ -30,3 +30,4 @@ Nên dùng **1.4.9** cho mọi website chạy WooCommerce.
 3. Thêm một dòng vào [versions.tsv](versions.tsv) (phiên bản, biến thể, commit, ngày, thư mục plugin).
 4. Tùy chọn: viết lưu ý vào `notes/x.y.z.md`.
 5. Đóng gói bằng `tools/build.sh` (hoặc `releases/build.sh x.y.z`), commit thư mục `releases/`.
+

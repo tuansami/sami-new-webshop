@@ -43,3 +43,4 @@ Truy cập: **WooCommerce → 2-Step Webshop**
   - `{fulfillment_method}` (Pickup hoặc Delivery)
   - `{pickup_delivery_time}` (Khung giờ đã chọn)
   - `{special_request}` (Ghi chú món ăn)
+

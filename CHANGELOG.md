@@ -46,3 +46,4 @@ Sửa lỗi & Cải tiến:
 - **Admin UI & Lịch mở cửa**:
   - Kiểm tra và rà soát toàn bộ 53 tùy chọn cấu hình trong Admin UI.
   - Sửa lỗi PHP Undefined variable `$yesterday_day` trong bộ lịch mở cửa qua đêm.
+

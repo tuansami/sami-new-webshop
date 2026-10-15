@@ -82,3 +82,4 @@ echo "   -> $ZIP"
 
 (cd "$DIST" && $SHA256 "$(basename "$ZIP")" > SHA256SUMS.txt)
 echo "== Xong. Mã kiểm tra: $DIST/SHA256SUMS.txt"
+

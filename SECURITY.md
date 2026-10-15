@@ -10,3 +10,4 @@ Với repository này, hãy tạo issue riêng (Security Advisory / Private Issu
 - Bằng chứng tối thiểu (PoC), đã loại bỏ thông tin nhạy cảm.
 
 Người quản trị sẽ nhanh chóng đánh giá, sửa lỗi và phát hành bản vá bảo mật.
+

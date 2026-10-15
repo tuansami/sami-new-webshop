@@ -17,3 +17,4 @@ Chạy trong môi trường staging có WordPress, WooCommerce và Mailpit:
 ```bash
 php tests/test_user_flows.php
 ```
+

@@ -8,3 +8,4 @@
 6. Mở pull request nêu rõ vấn đề, thay đổi và cách đã kiểm tra.
 
 Mọi đóng góp được phát hành theo giấy phép GPL-2.0-or-later của dự án.
+
